@@ -44,6 +44,14 @@ Titanic（预测生存：一种二元分类问题）：https://www.kaggle.com/c/
 强烈建议你有时间两项都尝试一下，对入门学习是很有益处的！
 
 
+##### 2. [KDDCUP2019 - Competitions](https://www.kdd.org/kdd2019/kdd-cup?from=timeline)
+
+常规机器学习挑战赛（Regular ML Track）
+
+自动机器学习挑战赛（Auto-ML Track）
+
+以人为本的强化学习挑战赛（Humanity RL Track）
+
 ### 国内（domestic inland ）
 国内是看到了AI在未来的重要性，各个公司已经相应投资者纷纷开设了很多相关的比赛及平台，下面说下我所知道的。
 
